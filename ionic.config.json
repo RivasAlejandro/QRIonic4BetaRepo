@@ -1,0 +1,7 @@
+{
+  "name": "ionic4qrScanner",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
